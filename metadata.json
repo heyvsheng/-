@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Pet Room",
+  "description": "An interactive online virtual pet care application where you can feed, water, and decorate your pet's room while watching their real-time activities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
